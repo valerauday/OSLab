@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#input-form {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+#result {
+    margin-top: 20px;
+}
